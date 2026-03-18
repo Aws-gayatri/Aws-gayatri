@@ -16,3 +16,5 @@ This project demonstrates a CI/CD pipeline using GitHub Actions and Docker.
 - app.py
 - Dockerfile
 - .github/workflows/main.yml
+- \
+- updated README
