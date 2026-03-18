@@ -1,15 +1,18 @@
-# Hi, I'm Gayatri 👋
+# CI/CD Project 🚀
 
-🚀 AWS & DevOps Engineer  
-☁️ AWS Certified (SAA-C03)  
-🔧 Skills: Docker | Kubernetes | Terraform | Jenkins | GitHub Actions  
+This project demonstrates a CI/CD pipeline using GitHub Actions and Docker.
 
-## 🔥 My Projects
-- CI/CD Pipeline using Jenkins  
-- Dockerized Application  
-- Kubernetes Deployment  
-- AWS Infrastructure using Terraform  
+## 🛠️ Tools Used
+- GitHub
+- GitHub Actions
+- Docker
 
-## 📫 Contact Me
-LinkedIn: add-link  
-Email: your-email
+## ⚙️ Pipeline Flow
+- Code push triggers pipeline
+- Docker image build
+- Container runs automatically
+
+## 📂 Files
+- app.py
+- Dockerfile
+- .github/workflows/main.yml
