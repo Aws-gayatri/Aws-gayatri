@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Gayatri 👋
 
-<!--
-**Aws-gayatri/Aws-gayatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AWS & DevOps Engineer  
+☁️ AWS Certified (SAA-C03)  
+🔧 Skills: Docker | Kubernetes | Terraform | Jenkins | GitHub Actions  
 
-Here are some ideas to get you started:
+## 🔥 My Projects
+- CI/CD Pipeline using Jenkins  
+- Dockerized Application  
+- Kubernetes Deployment  
+- AWS Infrastructure using Terraform  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+LinkedIn: add-link  
+Email: your-email
